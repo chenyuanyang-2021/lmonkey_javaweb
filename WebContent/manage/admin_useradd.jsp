@@ -9,9 +9,10 @@
         </div>
         <div class="result-wrap">
             <div class="result-content">
-                <form action="/jscss/admin/design/add" method="post" id="myform" name="myform" enctype="multipart/form-data">
+                <form action="/lmonkey_javaweb/manage/admin_douseradd" method="post" id="myform" name="myform" >
                     <table class="insert-tab" width="100%">
                         <tbody>
+                        
                             <tr>
                                 <th><i class="require-red">*</i>用户名：</th>
                                 <td>
@@ -50,7 +51,7 @@
                             
                             <tr>
                                 <th>出生日期：</th>
-                                <td><input class="common-text" name="birthday" size="50" value="admin" type="text"></td>
+                                <td><input class="common-text" name="birthday" size="50" value="" type="text"></td>
                             </tr>                            
                             
                             <tr>
