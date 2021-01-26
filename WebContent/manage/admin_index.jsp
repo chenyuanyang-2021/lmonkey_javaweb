@@ -55,7 +55,7 @@
         </div>
         <div class="result-wrap">
             <div class="result-title">
-                <h1>使用帮助</h1>
+                <h1>使用帮助234</h1>
             </div>
             <div class="result-content">
                 <ul class="sys-info-list">
